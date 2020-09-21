@@ -1,0 +1,23 @@
+
+	
+a {
+	text-decoration: none;
+	color: #16aa02;
+}
+
+	
+i {
+	color: #16aa02;
+}
+	div#menuContainer {
+		/* background-image: linear-gradient(#16aa02,#16aa02); */
+	}
+
+	ul#nav li a span {
+		color: beige;
+	}
+
+	
+	#mainSlider ul li h1 {
+		color: #16aa02;
+	}
